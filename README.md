@@ -1,6 +1,9 @@
-**`Full Stack Developer`**
+**`About Percery`**
 
-Hello! Name is Percery, you can also call me Percs ;). I primarily focus on my own business, however still open for any projects. Simply just someone who enjoys a bit of coding.. (sometimes a bit too much....)
+Hi there, I'm Aymen. I'm a passionate software engineer on a mission to transform ideas into innovative and efficient solutions. With a strong foundation in computer science and a keen eye for detail, I specialize in creating software and web applications that not only meets but exceeds expectations. 
+I'm excited about the endless possibilities that software engineering offers, and I look forward to contributing my skills and expertise to future projects. Let's connect and explore the boundless potential of technology together!
+
+
 
    <p align="center">
       <a href="https://www.youtube.com/@Percery">
@@ -42,7 +45,7 @@ Hello! Name is Percery, you can also call me Percs ;). I primarily focus on my o
 
 <details>
  <summary><h3>👨‍💻 Percery's Coding Journey</h3></summary>
-   Started out for fun in 2020, as a FiveM script developer. Moved onto front-end development in 2021, starting up multiple projects and completing them. Shortly after, in 2022 I started my full stack career after learning both front&back-end. Now run my own marketing agency, which is soon to come. Open for any projects, simply email me below.
+   My journey in the world of programming began early 2021 on a platform named 'FiveM', and since then, I've been on an exciting path of continuous learning and growth. My expertise spans across a variety of coding lanuages alongside markup & scripting languages , allowing me to tackle diverse challenges and contribute to a variety of projects. 
 
 [email]: private@mcpa.be
 [website]: https://mcpa.be
