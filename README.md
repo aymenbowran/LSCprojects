@@ -16,6 +16,14 @@ I'm excited about the endless possibilities that software engineering offers, an
 
 ---
 
+<details>
+ <summary><h3>👨‍💻 Percery's Coding Journey</h3></summary>
+   My journey in the world of programming began early 2021 on a platform named 'FiveM', and since then, I've been on an exciting path of continuous learning and growth. My expertise spans across a variety of coding lanuages alongside markup & scripting languages , allowing me to tackle diverse challenges and contribute to a variety of projects. 
+
+[email]: private@mcpa.be
+[website]: https://mcpa.be
+[youtube]: https://youtube.com/percery
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
