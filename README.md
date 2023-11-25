@@ -49,11 +49,3 @@ I'm excited about the endless possibilities that software engineering offers, an
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
-
-<details>
- <summary><h3>👨‍💻 Percery's Coding Journey</h3></summary>
-   My journey in the world of programming began early 2021 on a platform named 'FiveM', and since then, I've been on an exciting path of continuous learning and growth. My expertise spans across a variety of coding lanuages alongside markup & scripting languages , allowing me to tackle diverse challenges and contribute to a variety of projects. 
-
-[email]: private@mcpa.be
-[website]: https://mcpa.be
-[youtube]: https://youtube.com/percery
