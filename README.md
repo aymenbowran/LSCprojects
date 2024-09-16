@@ -16,12 +16,11 @@ I'm excited about the endless possibilities that software engineering offers, an
 
 ---
 
-### 👨‍💻 Percery's Coding Journey
+### 👨‍💻 Aymen's Coding Journey
    My journey in the world of programming began early 2021 on a platform named 'FiveM', and since then, I've been on an exciting path of continuous learning and growth. My expertise spans across a variety of coding lanuages alongside markup & scripting languages , allowing me to tackle diverse challenges and contribute to a variety of projects. 
 
-[email]: private@mcpa.be
-[website]: https://mcpa.be
-[youtube]: https://youtube.com/percery
+[email]: sysaymen@gmail.com
+[website]: https://opendigital.be
 
 ### 🧰 Languages and Tools
 
@@ -37,14 +36,13 @@ I'm excited about the endless possibilities that software engineering offers, an
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=percery&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sysaymen&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
