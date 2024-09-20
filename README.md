@@ -1,4 +1,4 @@
-**`About Percery`**
+**`About sysaymen // ak.sys`**
 
 Hi there, I'm Aymen. I'm a passionate software engineer on a mission to transform ideas into innovative and efficient solutions. With a strong foundation in computer science and a keen eye for detail, I specialize in creating software and web applications that not only meets but exceeds expectations. 
 I'm excited about the endless possibilities that software engineering offers, and I look forward to contributing my skills and expertise to future projects. Let's connect and explore the boundless potential of technology together!
@@ -6,21 +6,19 @@ I'm excited about the endless possibilities that software engineering offers, an
 
 
    <p align="center">
-      <a href="https://www.youtube.com/@Percery">
-      <a href="https://www.youtube.com/c/percery">
-      <a href="https://github.com/Percery?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Percery?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Percery?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Percery?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+-      <a href="https://github.com/sysaymen?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sysaymen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/sysaymen?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sysaymen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
 
 ### 👨‍💻 Aymen's Coding Journey
-   My journey in the world of programming began early 2021 on a platform named 'FiveM', and since then, I've been on an exciting path of continuous learning and growth. My expertise spans across a variety of coding lanuages alongside markup & scripting languages , allowing me to tackle diverse challenges and contribute to a variety of projects. 
+   My journey in the world of programming began early 2019 on a platform named 'FiveM', and since then, I've been on an exciting path of continuous learning and growth. My expertise spans across a variety of coding lanuages alongside markup & scripting languages , allowing me to tackle diverse challenges and contribute to a variety of projects. 
 
 [email]: sysaymen@gmail.com
-[website]: https://opendigital.be
+[website]: https://awqsoftware
 
 ### 🧰 Languages and Tools
 
