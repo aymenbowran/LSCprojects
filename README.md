@@ -1,12 +1,11 @@
 **`About sysaymen // ak.sys`**
 
-Hi there, I'm Aymen. I'm a passionate software engineer on a mission to transform ideas into innovative and efficient solutions. With a strong foundation in computer science and a keen eye for detail, I specialize in creating software and web applications that not only meets but exceeds expectations. 
-I'm excited about the endless possibilities that software engineering offers, and I look forward to contributing my skills and expertise to future projects. Let's connect and explore the boundless potential of technology together!
-
+Hi there, I'm Aymen. I'm a passionate full-stack engineer on a task to transform ideas into innovative and efficient software & solutions. With a strong foundation in CS and a keen eye for detail, I specialize in creating software and web applications that not only meets but exceeds expectations given to me. 
+I'm always excited to learn new things and assist other developers where needed.
 ---
 
 ### 👨‍💻 Aymen's Coding Journey
-   My journey in the world of programming began early 2019 on a platform named 'FiveM', and since then, I've been on an exciting path of continuous learning and growth. My expertise spans across a variety of coding lanuages alongside markup & scripting languages , allowing me to tackle diverse challenges and contribute to a variety of projects. 
+My software journey started from a relatively young age, in 2019 i showed an interest towards it as i started creating scripts (in LUA) on a platform named FiveM. This made me hooked on and earned me some decent money for that time. After that, i decided i wanted to dedicate myself to software & website solutions to broaden out my knowledge. All of my current knowledge comes from YouTube, Harvard CS courses, LeetCode to test myself and a variety of other factors. (and a CS degree soon.)
 
 [email]: sysaymen@gmail.com
 
