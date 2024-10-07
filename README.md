@@ -9,4 +9,4 @@ speciality $ software, anti-piracy & networks
 ```
 &zwnj; 
 &zwnj; 
-![](https://komarev.com/ghpvc/?username=hris69)
+![](https://komarev.com/ghpvc/?username=foreignsys)
