@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=foreignsystems,+your+provider)](https://git.io/typing-svg)
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/78/BlackStar.PNG" width="147"/> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_star.png/1069px-Black_star.png" width="147"/> 
 
 ```csharp
 github.com/foreignsys
