@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=foreignsystems,+your+provider)](https://git.io/typing-svg)
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/78/BlackStar.PNG" width="147"/> 
 
 ```csharp
 github.com/foreignsys
@@ -10,4 +10,3 @@ speciality $ software, anti-piracy & networks
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=foreignsys)
-"created_at": "2020-01-08T18:08:44Z"
