@@ -5,7 +5,7 @@
 github.com/foreignsys
 dc   $  @foreignsystems
 me  $  cyber & software
-speciality $ software, anti-piracy & networks
+speciality $ full-stack, anti-piracy & networks
 ```
 &zwnj; 
 &zwnj; 
