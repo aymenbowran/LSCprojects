@@ -2,8 +2,8 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Black_star.png/1069px-Black_star.png" width="147"/> 
 
 ```csharp
-github.com/1foreign22
-dc   $  @1foreign22
+github.com/LSCprojects
+dc   $  @5minutechart
 me  $  cyber & software
 speciality $ full-stack, anti-piracy & networks
 ```
