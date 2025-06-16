@@ -3,7 +3,7 @@
 
 - 🔭 Currently building **Joppa** — a new-style iOS app that automates job applications using AI  
 - ⚡ Focused on **execution**, **speed**, and building products that *actually* solve problems  
-- 🧠 Tech stack: Swift, Firebase, TypeScript, React, Supabase, LangChain, OpenAI  
+- 🧠 Tech stack: Swift, Firebase, TypeScript, React, Supabase, LangChain, OpenAI and more..
 - 💬 Ask me about **automation, AI product dev, iOS, or just building smart & fast**  
 - 📫 Reach me at **aymen@joppa.app**
 
